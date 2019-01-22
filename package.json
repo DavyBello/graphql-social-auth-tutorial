@@ -1,0 +1,19 @@
+{
+  "name": "graphql-social-auth-tutorial",
+  "version": "0.0.0",
+  "private": true,
+  "author": "DavyBello <bellooladipupo41@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start":"node src/app.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.3.1",
+    "graphql": "^14.1.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.5",
+    "passport": "^0.4.0",
+    "passport-facebook-token": "^3.3.0",
+    "passport-google-token": "^0.1.2"
+  }
+}
